@@ -1,5 +1,17 @@
 # Changelog
 
+## [0.83.1](https://github.com/zarf-dev/zarf/compare/v0.83.0...v0.83.1) (2026-08-11)
+
+
+### Features
+
+* **v1beta1:** load v1beta1 packages ([#5048](https://github.com/zarf-dev/zarf/issues/5048)) ([f82e001](https://github.com/zarf-dev/zarf/commit/f82e0012456b7fda305bfabab20ea71b7c9ac45d))
+
+
+### Bug Fixes
+
+* deprecated schema fields ([#5195](https://github.com/zarf-dev/zarf/issues/5195)) ([f21f80a](https://github.com/zarf-dev/zarf/commit/f21f80a9cc5f60d249d1a3306f1b1c3c3d30e181))
+
 ## [0.83.0](https://github.com/zarf-dev/zarf/compare/v0.82.0...v0.83.0) (2026-08-07)
 
 
